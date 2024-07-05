@@ -1,6 +1,0 @@
----
-title: "MY-SITE"
-date: 2024-07-05
----
-
-WEEE WOOOOO WAAAAA WUUUUU
